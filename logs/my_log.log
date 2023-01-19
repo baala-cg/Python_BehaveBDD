@@ -1,0 +1,314 @@
+19/01/23 08:10:03 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:10:03 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:10:03 PM Thursday - <module> - INFO : Entered the text: Seleniumin web element: Searchboxsuccessfully
+19/01/23 08:21:47 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:21:47 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:21:47 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:22:20 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:22:20 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:22:20 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:22:21 PM Thursday - <module> - INFO : Entered the text: Seleniumin web element: Searchboxsuccessfully
+19/01/23 08:22:21 PM Thursday - <module> - ERROR : Setting the text and click on Go failed due to: BasePage.do_click() missing 1 required positional argument: 'description'
+19/01/23 08:24:02 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:24:02 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:24:02 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:24:03 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:24:07 PM Thursday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+19/01/23 08:24:07 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:24:27 PM Thursday - <module> - ERROR : Title verification failed due to: Message: 
+
+19/01/23 08:29:34 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:29:34 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:29:34 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:29:34 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:29:35 PM Thursday - <module> - ERROR : Setting the text and click on Go failed due to: Message: element click intercepted: Element <input class="gNO89b" value="Google Search" aria-label="Google Search" name="btnK" role="button" tabindex="0" type="submit" data-ved="0ahUKEwjMrN_x8tP8AhX3SWwGHY8MBLsQ4dUDCA0"> is not clickable at point (691, 318). Other element would receive the click: <b>...</b>
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00CF6643]
+	(No symbol) [0x00C8BE21]
+	(No symbol) [0x00B8DA9D]
+	(No symbol) [0x00BC92B2]
+	(No symbol) [0x00BC6970]
+	(No symbol) [0x00BC3E0B]
+	(No symbol) [0x00BC2548]
+	(No symbol) [0x00BB6B13]
+	(No symbol) [0x00BDFD7C]
+	(No symbol) [0x00BB641F]
+	(No symbol) [0x00BE00D4]
+	(No symbol) [0x00BF6B09]
+	(No symbol) [0x00BDFB76]
+	(No symbol) [0x00BB49C1]
+	(No symbol) [0x00BB5E5D]
+	GetHandleVerifier [0x00F6A142+2497106]
+	GetHandleVerifier [0x00F985D3+2686691]
+	GetHandleVerifier [0x00F9BB9C+2700460]
+	GetHandleVerifier [0x00DA3B10+635936]
+	(No symbol) [0x00C94A1F]
+	(No symbol) [0x00C9A418]
+	(No symbol) [0x00C9A505]
+	(No symbol) [0x00CA508B]
+	BaseThreadInitThunk [0x76B27D69+25]
+	RtlInitializeExceptionChain [0x7731BB9B+107]
+	RtlClearBits [0x7731BB1F+191]
+
+19/01/23 08:30:50 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:30:50 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:30:50 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:30:50 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:30:50 PM Thursday - <module> - INFO : Pressed key: ENTER successfully
+19/01/23 08:30:50 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:31:15 PM Thursday - <module> - ERROR : Title verification failed due to: Message: 
+
+19/01/23 08:33:27 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:33:27 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:33:27 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:33:27 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:33:28 PM Thursday - <module> - ERROR : Setting the text and click on Go failed due to: Message: element click intercepted: Element <input class="gNO89b" value="Google Search" aria-label="Google Search" name="btnK" role="button" tabindex="0" type="submit" data-ved="0ahUKEwjR0uzg89P8AhUgTGwGHXhKC5cQ4dUDCA0"> is not clickable at point (691, 318). Other element would receive the click: <b>...</b>
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00CF6643]
+	(No symbol) [0x00C8BE21]
+	(No symbol) [0x00B8DA9D]
+	(No symbol) [0x00BC92B2]
+	(No symbol) [0x00BC6970]
+	(No symbol) [0x00BC3E0B]
+	(No symbol) [0x00BC2548]
+	(No symbol) [0x00BB6B13]
+	(No symbol) [0x00BDFD7C]
+	(No symbol) [0x00BB641F]
+	(No symbol) [0x00BE00D4]
+	(No symbol) [0x00BF6B09]
+	(No symbol) [0x00BDFB76]
+	(No symbol) [0x00BB49C1]
+	(No symbol) [0x00BB5E5D]
+	GetHandleVerifier [0x00F6A142+2497106]
+	GetHandleVerifier [0x00F985D3+2686691]
+	GetHandleVerifier [0x00F9BB9C+2700460]
+	GetHandleVerifier [0x00DA3B10+635936]
+	(No symbol) [0x00C94A1F]
+	(No symbol) [0x00C9A418]
+	(No symbol) [0x00C9A505]
+	(No symbol) [0x00CA508B]
+	BaseThreadInitThunk [0x76B27D69+25]
+	RtlInitializeExceptionChain [0x7731BB9B+107]
+	RtlClearBits [0x7731BB1F+191]
+
+19/01/23 08:36:46 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:36:46 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:36:46 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:36:46 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:36:46 PM Thursday - <module> - ERROR : Setting the text and click on Go failed due to: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00CF6643]
+	(No symbol) [0x00C8BE21]
+	(No symbol) [0x00B8DA9D]
+	(No symbol) [0x00BC13F3]
+	(No symbol) [0x00BC147B]
+	(No symbol) [0x00BF8DC2]
+	(No symbol) [0x00BDFDC4]
+	(No symbol) [0x00BF6B09]
+	(No symbol) [0x00BDFB76]
+	(No symbol) [0x00BB49C1]
+	(No symbol) [0x00BB5E5D]
+	GetHandleVerifier [0x00F6A142+2497106]
+	GetHandleVerifier [0x00F985D3+2686691]
+	GetHandleVerifier [0x00F9BB9C+2700460]
+	GetHandleVerifier [0x00DA3B10+635936]
+	(No symbol) [0x00C94A1F]
+	(No symbol) [0x00C9A418]
+	(No symbol) [0x00C9A505]
+	(No symbol) [0x00CA508B]
+	BaseThreadInitThunk [0x76B27D69+25]
+	RtlInitializeExceptionChain [0x7731BB9B+107]
+	RtlClearBits [0x7731BB1F+191]
+
+19/01/23 08:38:53 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:38:53 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:38:53 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:38:54 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:38:54 PM Thursday - <module> - ERROR : Setting the text and click on Go failed due to: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00CF6643]
+	(No symbol) [0x00C8BE21]
+	(No symbol) [0x00B8DA9D]
+	(No symbol) [0x00BC13F3]
+	(No symbol) [0x00BC147B]
+	(No symbol) [0x00BF8DC2]
+	(No symbol) [0x00BDFDC4]
+	(No symbol) [0x00BF6B09]
+	(No symbol) [0x00BDFB76]
+	(No symbol) [0x00BB49C1]
+	(No symbol) [0x00BB5E5D]
+	GetHandleVerifier [0x00F6A142+2497106]
+	GetHandleVerifier [0x00F985D3+2686691]
+	GetHandleVerifier [0x00F9BB9C+2700460]
+	GetHandleVerifier [0x00DA3B10+635936]
+	(No symbol) [0x00C94A1F]
+	(No symbol) [0x00C9A418]
+	(No symbol) [0x00C9A505]
+	(No symbol) [0x00CA508B]
+	BaseThreadInitThunk [0x76B27D69+25]
+	RtlInitializeExceptionChain [0x7731BB9B+107]
+	RtlClearBits [0x7731BB1F+191]
+
+19/01/23 08:40:52 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:40:53 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:40:53 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:40:53 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:40:53 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:41:18 PM Thursday - <module> - ERROR : Title verification failed due to: Message: 
+
+19/01/23 08:41:33 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:41:33 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:41:34 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:41:34 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:41:34 PM Thursday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+19/01/23 08:41:34 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:41:50 PM Thursday - <module> - ERROR : Title verification failed due to: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00CF6643]
+	(No symbol) [0x00C8BE21]
+	(No symbol) [0x00B8DA9D]
+	(No symbol) [0x00B6EF6A]
+	(No symbol) [0x00BE3AAB]
+	(No symbol) [0x00BF61B6]
+	(No symbol) [0x00BDFB76]
+	(No symbol) [0x00BB49C1]
+	(No symbol) [0x00BB5E5D]
+	GetHandleVerifier [0x00F6A142+2497106]
+	GetHandleVerifier [0x00F985D3+2686691]
+	GetHandleVerifier [0x00F9BB9C+2700460]
+	GetHandleVerifier [0x00DA3B10+635936]
+	(No symbol) [0x00C94A1F]
+	(No symbol) [0x00C9A418]
+	(No symbol) [0x00C9A505]
+	(No symbol) [0x00CA508B]
+	BaseThreadInitThunk [0x76B27D69+25]
+	RtlInitializeExceptionChain [0x7731BB9B+107]
+	RtlClearBits [0x7731BB1F+191]
+
+19/01/23 08:42:38 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:42:38 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:42:38 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:42:38 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:42:39 PM Thursday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+19/01/23 08:42:39 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:43:04 PM Thursday - <module> - ERROR : Title verification failed due to: Message: 
+
+19/01/23 08:44:20 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:44:20 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:44:20 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:44:20 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:44:20 PM Thursday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+19/01/23 08:44:21 PM Thursday - <module> - ERROR : Setting the text and click on Go failed due to: Message: element click intercepted: Element <input class="gNO89b" value="Google Search" aria-label="Google Search" name="btnK" role="button" tabindex="0" type="submit" data-ved="0ahUKEwi3v6-Y9tP8AhWeSWwGHVRNAYwQ4dUDCA0"> is not clickable at point (691, 318). Other element would receive the click: <b>...</b>
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00CF6643]
+	(No symbol) [0x00C8BE21]
+	(No symbol) [0x00B8DA9D]
+	(No symbol) [0x00BC92B2]
+	(No symbol) [0x00BC6970]
+	(No symbol) [0x00BC3E0B]
+	(No symbol) [0x00BC2548]
+	(No symbol) [0x00BB6B13]
+	(No symbol) [0x00BDFD7C]
+	(No symbol) [0x00BB641F]
+	(No symbol) [0x00BE00D4]
+	(No symbol) [0x00BF6B09]
+	(No symbol) [0x00BDFB76]
+	(No symbol) [0x00BB49C1]
+	(No symbol) [0x00BB5E5D]
+	GetHandleVerifier [0x00F6A142+2497106]
+	GetHandleVerifier [0x00F985D3+2686691]
+	GetHandleVerifier [0x00F9BB9C+2700460]
+	GetHandleVerifier [0x00DA3B10+635936]
+	(No symbol) [0x00C94A1F]
+	(No symbol) [0x00C9A418]
+	(No symbol) [0x00C9A505]
+	(No symbol) [0x00CA508B]
+	BaseThreadInitThunk [0x76B27D69+25]
+	RtlInitializeExceptionChain [0x7731BB9B+107]
+	RtlClearBits [0x7731BB1F+191]
+
+19/01/23 08:45:16 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:45:16 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:45:16 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:45:17 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:45:17 PM Thursday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+19/01/23 08:45:17 PM Thursday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+19/01/23 08:45:17 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:45:42 PM Thursday - <module> - ERROR : Title verification failed due to: Message: 
+
+19/01/23 08:46:26 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:46:26 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:46:26 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:46:26 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:46:27 PM Thursday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+19/01/23 08:46:31 PM Thursday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+19/01/23 08:46:31 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:46:31 PM Thursday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
+19/01/23 08:46:31 PM Thursday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully
+19/01/23 08:48:05 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:48:05 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:48:05 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:48:05 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:48:06 PM Thursday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+19/01/23 08:48:07 PM Thursday - <module> - ERROR : Setting the text and click on Go failed due to: Message: element click intercepted: Element <input class="gNO89b" value="Google Search" aria-label="Google Search" name="btnK" role="button" tabindex="0" type="submit" data-ved="0ahUKEwj43tmD99P8AhXET2wGHRBjD0cQ4dUDCA4"> is not clickable at point (691, 318). Other element would receive the click: <b>...</b>
+  (Session info: chrome=109.0.5414.75)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00CF6643]
+	(No symbol) [0x00C8BE21]
+	(No symbol) [0x00B8DA9D]
+	(No symbol) [0x00BC92B2]
+	(No symbol) [0x00BC6970]
+	(No symbol) [0x00BC3E0B]
+	(No symbol) [0x00BC2548]
+	(No symbol) [0x00BB6B13]
+	(No symbol) [0x00BDFD7C]
+	(No symbol) [0x00BB641F]
+	(No symbol) [0x00BE00D4]
+	(No symbol) [0x00BF6B09]
+	(No symbol) [0x00BDFB76]
+	(No symbol) [0x00BB49C1]
+	(No symbol) [0x00BB5E5D]
+	GetHandleVerifier [0x00F6A142+2497106]
+	GetHandleVerifier [0x00F985D3+2686691]
+	GetHandleVerifier [0x00F9BB9C+2700460]
+	GetHandleVerifier [0x00DA3B10+635936]
+	(No symbol) [0x00C94A1F]
+	(No symbol) [0x00C9A418]
+	(No symbol) [0x00C9A505]
+	(No symbol) [0x00CA508B]
+	BaseThreadInitThunk [0x76B27D69+25]
+	RtlInitializeExceptionChain [0x7731BB9B+107]
+	RtlClearBits [0x7731BB1F+191]
+
+19/01/23 08:48:24 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 08:48:24 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 08:48:24 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 08:48:24 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 08:48:24 PM Thursday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+19/01/23 08:48:28 PM Thursday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+19/01/23 08:48:28 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 08:48:28 PM Thursday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
+19/01/23 08:48:28 PM Thursday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully
+19/01/23 09:02:09 PM Thursday - <module> - INFO : Invoked: Google successfully
+19/01/23 09:02:09 PM Thursday - <module> - INFO : Fetched the title successfully: Google
+19/01/23 09:02:09 PM Thursday - <module> - INFO : PASSED: Google Search Page launched successfully
+19/01/23 09:02:09 PM Thursday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+19/01/23 09:02:10 PM Thursday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+19/01/23 09:02:11 PM Thursday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+19/01/23 09:02:11 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+19/01/23 09:02:11 PM Thursday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
+19/01/23 09:02:11 PM Thursday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully

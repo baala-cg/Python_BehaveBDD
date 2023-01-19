@@ -1,0 +1,12 @@
+{
+  "TC01": {
+    "phrase": "Selenium",
+    "title_1": "Google",
+    "title_2": "Selenium - Google Search",
+    "output_data": "Selenium - Google Search"
+  },
+  "TC02": {
+    "text": "Selenium",
+    "title": "Google"
+  }
+}

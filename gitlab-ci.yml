@@ -1,0 +1,19 @@
+stages:
+  - build
+
+build-job:
+  image: container-registry.cbs.net/python:3.7.4
+
+  stage: build
+  script:
+    - pip --version
+    - python --version
+    - pip install -qr requirements.txt --trusted-host it-nexus-repo.com -i https://it-nexus.com/repo/python/simple
+    - pip list
+    - behave -f allure_behave.formatter:AllureFormatter -o allure-results/ ./features
+    - allure generate allure-results/ --clean && allure open
+
+  artifacts:
+    when: always
+    paths:
+      - allure-results/
