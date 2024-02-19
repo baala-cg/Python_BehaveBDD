@@ -312,3 +312,39 @@ Backtrace:
 19/01/23 09:02:11 PM Thursday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
 19/01/23 09:02:11 PM Thursday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
 19/01/23 09:02:11 PM Thursday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully
+18/02/24 08:30:37 AM Sunday - <module> - INFO : Invoked: Google successfully
+18/02/24 08:30:37 AM Sunday - <module> - INFO : Fetched the title successfully: Google
+18/02/24 08:30:37 AM Sunday - <module> - INFO : PASSED: Google Search Page launched successfully
+18/02/24 08:30:38 AM Sunday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+18/02/24 08:30:38 AM Sunday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+18/02/24 08:30:38 AM Sunday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+18/02/24 08:30:38 AM Sunday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+18/02/24 08:30:42 AM Sunday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
+18/02/24 08:30:42 AM Sunday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully
+18/02/24 08:34:07 AM Sunday - <module> - INFO : Invoked: Google successfully
+18/02/24 08:34:07 AM Sunday - <module> - INFO : Fetched the title successfully: Google
+18/02/24 08:34:07 AM Sunday - <module> - INFO : PASSED: Google Search Page launched successfully
+18/02/24 08:34:07 AM Sunday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+18/02/24 08:34:07 AM Sunday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+18/02/24 08:34:07 AM Sunday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+18/02/24 08:34:07 AM Sunday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+18/02/24 08:34:10 AM Sunday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
+18/02/24 08:34:10 AM Sunday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully
+18/02/24 08:43:28 AM Sunday - <module> - INFO : Invoked: Google successfully
+18/02/24 08:43:28 AM Sunday - <module> - INFO : Fetched the title successfully: Google
+18/02/24 08:43:28 AM Sunday - <module> - INFO : PASSED: Google Search Page launched successfully
+18/02/24 08:43:28 AM Sunday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+18/02/24 08:43:28 AM Sunday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+18/02/24 08:43:29 AM Sunday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+18/02/24 08:43:29 AM Sunday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+18/02/24 08:43:31 AM Sunday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
+18/02/24 08:43:31 AM Sunday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully
+18/02/24 04:51:59 PM Sunday - <module> - INFO : Invoked: Google successfully
+18/02/24 04:51:59 PM Sunday - <module> - INFO : Fetched the title successfully: Google
+18/02/24 04:51:59 PM Sunday - <module> - INFO : PASSED: Google Search Page launched successfully
+18/02/24 04:52:00 PM Sunday - <module> - INFO : Entered the text: Selenium in web element: Searchbox successfully
+18/02/24 04:52:00 PM Sunday - <module> - INFO : Clicked on web element: Search boxsuccessfully
+18/02/24 04:52:00 PM Sunday - <module> - INFO : Clicked on web element: Search buttonsuccessfully
+18/02/24 04:52:00 PM Sunday - <module> - INFO : PASSED: Entered value and clicked on Go successfully
+18/02/24 04:52:04 PM Sunday - <module> - INFO : Fetched the title successfully: Selenium - Google Search
+18/02/24 04:52:04 PM Sunday - <module> - INFO : PASSED: Google page title: Selenium - Google Search validated successfully

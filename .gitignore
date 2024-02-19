@@ -2,3 +2,5 @@ allure-results/
 allure-report/
 debug/
 testData/data_backup.json
+/src/pages/__pycache__/
+.idea/
